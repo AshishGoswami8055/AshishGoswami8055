@@ -1,6 +1,41 @@
-# 💫 About Me:
-Hi there 👋<br>🔭 I’m currently working on:<br>The Elyndra project, a modern web application leveraging the MERN stack to deliver seamless user experiences and cutting-edge functionality.<br><br>👯 I’m looking to collaborate on:<br><br>Full-stack web applications using React, Node.js, and MongoDB.<br>Innovative projects focused on solving real-world problems with scalable web solutions.<br>🤝 I’m looking for help with:<br><br>Exploring advanced design patterns in React and Node.js.<br>Enhancing performance and scalability in large-scale web applications.<br>🌱 I’m currently learning:<br><br>Advanced state management in React (e.g., Zustand, Jotai).<br>Microservices architecture for scalable backend systems.<br>💬 Ask me about:<br><br>Full-stack development with the MERN stack.<br>Building intuitive, user-friendly interfaces and robust APIs.<br>My journey with Quest of the Enlightened Monk, where I applied creative problem-solving and dynamic UI design.<br>⚡ Fun fact:<br>I love blending technology and creativity — whether it’s crafting engaging user interfaces or designing immersive side projects like Quest of the Enlightened Monk.
+Here's your **GitHub About Me** with the correct icons added:  
 
+---
+
+# **💫 About Me:**  
+Hi, **👋 I'm an enthusiastic MERN Stack Developer** with a passion for creating **interactive games, responsive web applications, and scalable backend systems**.  
+
+### **🚀 Currently working on:**  
+- 🔹 **Improving BlackOlive** – A **Next.js & MongoDB**-based inventory management system with enhanced filtering and order processing.  
+- 🎮 **Quest of the Enlightened Monk** – A **2D platformer adventure game** with **dynamic environments, combat mechanics, and AI-powered enemies**.  
+- 📝 **Blog Management System** – Includes **admin CRUD operations, user authentication, and real-time interactions**.  
+
+### **🤝 I’m looking to collaborate on:**  
+- 💻 **Full-stack projects** using **React, Node.js, and MongoDB**.  
+- 🎮 **Game development** with **HTML5 Canvas and JavaScript**.  
+- ⚡ **Scalable web applications** with **performance optimizations and clean architecture**.  
+
+### **🛠️ I’m looking for help with:**  
+- 🗄️ **Advanced caching & indexing** strategies in **MongoDB**.  
+- 🏗️ **State management improvements** for large-scale **React applications**.  
+- 🌐 **Real-time game mechanics** using **WebSockets**.  
+
+### **🌱 I’m currently learning:**  
+- ⚛️ **Advanced React patterns** (Custom Hooks, Zustand, Jotai).  
+- 🔗 **Microservices & API Gateway** for **scalable backend architecture**.  
+- 🤖 **AI-powered game mechanics** to enhance enemy behavior in **Quest of the Enlightened Monk**.  
+
+### **💬 Ask me about:**  
+- 🖥️ **Full-stack development** using the **MERN stack**.  
+- 🏗️ **Building dynamic UIs and stable APIs**.  
+- 🎮 **My experience in developing interactive games & real-world applications**.  
+
+### **⚡ Fun fact:**  
+I love merging **technology & creativity**—whether it's designing **immersive game mechanics** or developing **powerful full-stack applications**!  
+
+---
+
+This version includes **icons for every section** to make it visually appealing on **GitHub**! 🚀 Let me know if you want any modifications! 😊🔥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ashish19_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashishpuri-goswami-52a7102b7) 
