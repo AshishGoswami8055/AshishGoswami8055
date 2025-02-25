@@ -1,7 +1,3 @@
-Here's your **GitHub About Me** with the correct icons added:  
-
----
-
 # **💫 About Me:**  
 Hi, **👋 I'm an enthusiastic MERN Stack Developer** with a passion for creating **interactive games, responsive web applications, and scalable backend systems**.  
 
@@ -32,10 +28,6 @@ Hi, **👋 I'm an enthusiastic MERN Stack Developer** with a passion for creatin
 
 ### **⚡ Fun fact:**  
 I love merging **technology & creativity**—whether it's designing **immersive game mechanics** or developing **powerful full-stack applications**!  
-
----
-
-This version includes **icons for every section** to make it visually appealing on **GitHub**! 🚀 Let me know if you want any modifications! 😊🔥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__ashish19_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashishpuri-goswami-52a7102b7) 
