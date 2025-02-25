@@ -2,29 +2,29 @@
 Hi, **👋 I'm an enthusiastic MERN Stack Developer** with a passion for creating **interactive games, responsive web applications, and scalable backend systems**.  
 
 ### **🚀 Currently working on:**  
-- 🔹 **Improving BlackOlive** – A **Next.js & MongoDB**-based inventory management system with enhanced filtering and order processing.  
-- 🎮 **Quest of the Enlightened Monk** – A **2D platformer adventure game** with **dynamic environments, combat mechanics, and AI-powered enemies**.  
-- 📝 **Blog Management System** – Includes **admin CRUD operations, user authentication, and real-time interactions**.  
+-  **Improving BlackOlive** – A **Next.js & MongoDB**-based inventory management system with enhanced filtering and order processing.  
+-  **Quest of the Enlightened Monk** – A **2D platformer adventure game** with **dynamic environments, combat mechanics, and AI-powered enemies**.  
+-  **Blog Management System** – Includes **admin CRUD operations, user authentication, and real-time interactions**.  
 
 ### **🤝 I’m looking to collaborate on:**  
-- 💻 **Full-stack projects** using **React, Node.js, and MongoDB**.  
-- 🎮 **Game development** with **HTML5 Canvas and JavaScript**.  
-- ⚡ **Scalable web applications** with **performance optimizations and clean architecture**.  
+-  **Full-stack projects** using **React, Node.js, and MongoDB**.  
+-  **Game development** with **HTML5 Canvas and JavaScript**.  
+-  **Scalable web applications** with **performance optimizations and clean architecture**.  
 
 ### **🛠️ I’m looking for help with:**  
-- 🗄️ **Advanced caching & indexing** strategies in **MongoDB**.  
-- 🏗️ **State management improvements** for large-scale **React applications**.  
-- 🌐 **Real-time game mechanics** using **WebSockets**.  
+-  **Advanced caching & indexing** strategies in **MongoDB**.  
+-  **State management improvements** for large-scale **React applications**.  
+-  **Real-time game mechanics** using **WebSockets**.  
 
 ### **🌱 I’m currently learning:**  
-- ⚛️ **Advanced React patterns** (Custom Hooks, Zustand, Jotai).  
-- 🔗 **Microservices & API Gateway** for **scalable backend architecture**.  
-- 🤖 **AI-powered game mechanics** to enhance enemy behavior in **Quest of the Enlightened Monk**.  
+-  **Advanced React patterns** (Custom Hooks, Zustand, Jotai).  
+-  **Microservices & API Gateway** for **scalable backend architecture**.  
+-  **AI-powered game mechanics** to enhance enemy behavior in **Quest of the Enlightened Monk**.  
 
 ### **💬 Ask me about:**  
-- 🖥️ **Full-stack development** using the **MERN stack**.  
-- 🏗️ **Building dynamic UIs and stable APIs**.  
-- 🎮 **My experience in developing interactive games & real-world applications**.  
+-  **Full-stack development** using the **MERN stack**.  
+-  **Building dynamic UIs and stable APIs**.  
+-  **My experience in developing interactive games & real-world applications**.  
 
 ### **⚡ Fun fact:**  
 I love merging **technology & creativity**—whether it's designing **immersive game mechanics** or developing **powerful full-stack applications**!  
