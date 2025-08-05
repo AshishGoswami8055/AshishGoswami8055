@@ -2,7 +2,7 @@
 Hi, **👋 I'm an enthusiastic MERN Stack Developer** with a passion for creating **interactive games, responsive web applications, and scalable backend systems**.  
 
 ### **🚀 Currently working on:**  
--  **Improving BlackOlive** – A **Next.js & MongoDB**-based inventory management system with enhanced filtering and order processing.  
+-  **MedStock** – A Full stack inventory management system with enhanced filtering and order processing.  
 -  **Quest of the Enlightened Monk** – A **2D platformer adventure game** with **dynamic environments, combat mechanics, and AI-powered enemies**.  
 -  **Blog Management System** – Includes **admin CRUD operations, user authentication, and real-time interactions**.  
 
